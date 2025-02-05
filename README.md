@@ -15,7 +15,7 @@ Bu proje, .NET Framework C# Windows Forms kullanılarak geliştirilmiş bir otel
  * Rezervasyon güncelleme 
  * Rezervasyon silme
 
- * ![image](https://github.com/user-attachments/assets/0e51c012-6405-4d42-8dd2-23e6301b11fd)
+![image](https://github.com/user-attachments/assets/0e51c012-6405-4d42-8dd2-23e6301b11fd)
 
 
 ## 👤 Müşteri Yönetimi
@@ -24,7 +24,7 @@ Bu proje, .NET Framework C# Windows Forms kullanılarak geliştirilmiş bir otel
  * Müşteri güncelleme 
  * Müşteri silme
 
- * ![image](https://github.com/user-attachments/assets/422c614e-0b7d-44cc-81c1-3833863a5b97)
+![image](https://github.com/user-attachments/assets/422c614e-0b7d-44cc-81c1-3833863a5b97)
 
 
 ## 🏨 Oda Yönetimi
@@ -34,14 +34,14 @@ Bu proje, .NET Framework C# Windows Forms kullanılarak geliştirilmiş bir otel
  * Oda durum kontrol etme
  * Oda silme
 
- * ![image](https://github.com/user-attachments/assets/6a6d237f-5d0f-46a9-ab8c-de573c3e43c0)
+![image](https://github.com/user-attachments/assets/6a6d237f-5d0f-46a9-ab8c-de573c3e43c0)
 
 
 ## 📊 Veritabanı Entegrasyonu
 
  * Rezervasyon, müşteri ve oda bilgileri veritabanında saklanır
 
- * ![image](https://github.com/user-attachments/assets/43908b71-503f-4ef7-b3ad-1874bc31dcf6)
+![image](https://github.com/user-attachments/assets/43908b71-503f-4ef7-b3ad-1874bc31dcf6)
 
 
 🖼 Kullanılan Diyagramlar
