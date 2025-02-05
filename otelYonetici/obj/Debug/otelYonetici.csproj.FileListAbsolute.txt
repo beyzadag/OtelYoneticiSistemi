@@ -1,0 +1,40 @@
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\otelYonetici.exe.config
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\otelYonetici.exe
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\otelYonetici.pdb
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\MySql.Data.dll
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\System.Memory.dll
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\System.Buffers.dll
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\bin\Debug\MySql.Data.xml
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.csproj.AssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.Form1.resources
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.Properties.Resources.resources
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.csproj.GenerateResource.cache
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYone.F8A6210B.Up2Date
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.exe
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.pdb
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.YoneticiForm.resources
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.RezervasyonIslemleriFormu.resources
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.OdaIslemleriFormu.resources
+C:\Users\Ömer Faruk\Desktop\Projeler\C# Proje\NesneYönelimliProgramlama\otelYonetici\otelYonetici\obj\Debug\otelYonetici.MusteriIslemleriFormu.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\otelYonetici.exe.config
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\otelYonetici.exe
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\otelYonetici.pdb
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\System.Memory.dll
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\bin\Debug\System.Buffers.dll
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.csproj.AssemblyReference.cache
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.Form1.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.MusteriIslemleriFormu.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.OdaIslemleriFormu.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.RezervasyonIslemleriFormu.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.Properties.Resources.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.YoneticiForm.resources
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.csproj.GenerateResource.cache
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.csproj.CoreCompileInputs.cache
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYone.F8A6210B.Up2Date
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.exe
+D:\Downloads\OtelYoneticiSistemi-main\OtelYoneticiSistemi-main\otelYonetici\otelYonetici\obj\Debug\otelYonetici.pdb
