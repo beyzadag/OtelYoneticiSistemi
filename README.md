@@ -59,3 +59,7 @@ Bu proje, .NET Framework C# Windows Forms kullanılarak geliştirilmiş bir otel
 📌 ER Diyagramı
 
 ![ERbeyza](https://github.com/user-attachments/assets/4f60734e-4fa6-4d2e-a2d1-2059193f6139)
+
+
+YouTube Tanıtım Videosu 
+https://youtu.be/3Cw1t-NrpDY?si=X7M21wxssNbrJhRM
